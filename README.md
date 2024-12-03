@@ -63,3 +63,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 - Inspiration from popular budgeting apps like Mint and YNAB.
+
+![Alt text](ReportCover.png)
